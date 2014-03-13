@@ -128,3 +128,22 @@
 <h2>QUIZ!</h2>
 <img src="images/quiz.jpg" style="max-height: 550px;">
 
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Quadcopter -->
+
+<h1>Quadcopter</h1>
+<h3><b>Quad</b> means it has <b>4</b> blades</h3>
+<img src="images/maps_fun.jpg" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<img src="images/sparse.png" style="max-height: 650px;">
+
+--SUBSLIDE--
+
+<img src="images/dense.png" style="max-height: 650px;">
+
+--SUBSLIDE--
+
+<img src="images/stitch.jpg" style="max-height: 650px;">
