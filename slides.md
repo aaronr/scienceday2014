@@ -36,9 +36,15 @@ Composite image of many maps here
 
 --SUBSLIDE--
 
-<h1>Orientation</h1>
-<h2>North, South, East, West</h2>
+<h2>Orientation</h2>
+<h3>North, South, East, West</h3>
 <img src="images/rose.png" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<h2>Scale</h2>
+<h3>Use a <b>ruler</b></h3><h3> to calculate <b>distance</b></h3>
+<img src="images/legend.jpg" style="max-height: 450px;">
 
 --SUBSLIDE--
 
@@ -81,6 +87,11 @@ Composite image of many maps here
 
 --SUBSLIDE--
 
+<h2>Aaron Minecraft</h2>
+<img src="images/aaron_minecraft.png" style="max-height: 500px;">
+
+--SUBSLIDE--
+
 <h2><b>Vector</b> - Shapes</h2>
 <img src="images/vector.png" style="max-height: 450px;">
 
@@ -95,4 +106,20 @@ Composite image of many maps here
 <img src="images/raster_vector.png" style="max-height: 450px;">
 
 
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Topo, Contour -->
+
+<h2>Common map</h2>
+<h2>is a <b>Topographic</b> map</h2>
+<img src="images/rainier.jpg" style="max-height: 500px;">
+
+--SUBSLIDE--
+
+<img src="images/race.jpg" style="max-height: 650px;">
+
+--SUBSLIDE--
+
+<h2>QUIZ!</h2>
+<img src="images/quiz.jpg" style="max-height: 550px;">
 
