@@ -9,7 +9,7 @@
 <!-- Topic: Overview -->
 
 <h2><b>Many</b> types of maps</h2>
-Composite image of many maps here
+<img src="images/types.jpg" style="max-height: 450px;">
 
 --SUBSLIDE--
 
@@ -39,6 +39,11 @@ Composite image of many maps here
 <h2>Orientation</h2>
 <h3>North, South, East, West</h3>
 <img src="images/rose.png" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<h2>Latitude - Longitude</h2>
+<img src="images/lat_lon.jpg" style="max-height: 450px;">
 
 --SUBSLIDE--
 
@@ -87,7 +92,7 @@ Composite image of many maps here
 
 --SUBSLIDE--
 
-<h2>Aaron Minecraft</h2>
+<h2>Minecraft Aaron!</h2>
 <img src="images/aaron_minecraft.png" style="max-height: 500px;">
 
 --SUBSLIDE--
